@@ -31,7 +31,7 @@ a:hover {background-color: transparent;}
 .zlati_border img {max-width: 100%;z-index: 1;}
 .zlati_border ul {display: inline-flex;padding: 0;}
 .zlati_border ul li {list-style: none;padding: 0;}
-
+.nl_desno{position:relative;left:45px;}
 .img-absolute {position: relative;width: 100%;z-index: 14;}
 .img-absolute .badge_main {position: absolute;right: 15%;top: 318px;}
 
