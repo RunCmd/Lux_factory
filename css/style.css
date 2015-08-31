@@ -43,6 +43,16 @@ a:hover {background-color: transparent;}
 .zvezdnice_wrapper h3 {padding: 12px 0;color: white;}
 .crna_puscice {padding: 0 30px;}
 
+
+
+/* Carousel new*/
+.nl_carousel .carousel-caption{position:initial;color:black;}
+.carousel.slide img {
+    max-width:100%;
+}
+.nl_carousel p{text-align: left;padding: 0px 45px;}
+@media (max-width:767px){.nl_carousel p{text-align: left;padding: 0px 4px;}}
+
 /*To Do: Fix to get the image in the center*/
 .images-vertical-center {
     min-height: 100%; /* Fallback for browsers do NOT support vh unit */
@@ -52,7 +62,7 @@ a:hover {background-color: transparent;}
 }
 
 
-.articles-wrapper {margin: 20px 0 -10px 30px;}
+/*.articles-wrapper {margin: 20px 0 -10px 30px;}*/
 .article-text-first{margin-left:0px;margin-top:30px;}
 .article-text-first h5{margin-top:30px; text-align:left;}
 .article-text-first p{margin-top:30px;text-align:left;font-size:13px; font-weight:bold; width: 270px;}
